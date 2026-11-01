@@ -47,7 +47,7 @@ This project focuses on analyzing housing market trends using Tableau. The dashb
 - Publish dashboards with live data updates.
 
 # Author
-**Kavitha Dharmana**
+**SaiPriya Korupolu**
 
 ## Project Demo Video
 Google Drive link: https://drive.google.com/file/d/134Qg_0sWaUFNBXbinrqoUA3R1HNLdnFG/view?usp=drive_link
